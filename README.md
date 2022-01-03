@@ -32,3 +32,5 @@ Skills: JS / HTML / CSS / WordPress / SEO / Digital Marketing
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/zaman2000)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/zaman2000)  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaman2000)](https://github.com/anuraghazra/github-readme-stats)
