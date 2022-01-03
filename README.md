@@ -35,4 +35,4 @@ Skills: JS / HTML / CSS / WordPress / SEO / Digital Marketing
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaman2000)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaman2000&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaman2000&show_icons=true&theme=radical)
