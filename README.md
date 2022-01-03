@@ -21,7 +21,7 @@ Skills: JS / HTML / CSS / WordPress / SEO / Digital Marketing
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/zaman2000)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/zaman2000)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaman2000&show_icons=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/zaman2000&show_icons=true&count_private=true)  
 
