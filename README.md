@@ -12,7 +12,7 @@ Skills: JS / HTML / CSS / WordPress / SEO / Digital Marketing
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Freelance Jobs 
 - 💬 Ask me about WordPress, SEO and Digital marketing 
-- 📫 How to reach me: My email (kkhan1889@gmail.com) or https://www.upwork.com/freelancers/~01c75368cbc6ce8785 or https://www.fiverr.com/zaman200 or https://updateseourls.blogspot.com/p/my-portfolio.html 
+- 📫 How to reach me: My email (kkhan1889@gmail.com) or https://www.upwork.com/freelancers/~01c75368cbc6ce8785 or https://www.fiverr.com/zaman200 or https://www.seoclerk.com/user/zaman200#reviews or https://updateseourls.blogspot.com/p/my-portfolio.html 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/zaman2000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/khairuzzaman-khan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/zaman.khan.seo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zaman0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://updateseourls.blogspot.com/)  
