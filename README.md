@@ -3,7 +3,7 @@
 #### I am a freelance worker on Upwork, Fiverr & other marketplaces
 
 
-I am a WordPress developer, SEO professional and Google certified Digital Marketer with over 8 years’ experience.
+I am a WordPress developer, SEO professional, and Google-certified Digital Marketer with over 8 years of experience.
 
 Skills: JS / HTML / CSS / WordPress / SEO / Digital Marketing
 
